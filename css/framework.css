@@ -18,6 +18,22 @@
   justify-content: flex-end;
 }
 
+.row-top {
+  display: flex;
+  align-items: flex-start;
+}
+
+.row-middle {
+  display: flex;
+  align-items: center;
+}
+
+.row-bottom {
+  display: flex;
+  align-items: flex-end;
+}
+
+
 .high {
   height: 124px;
 }
